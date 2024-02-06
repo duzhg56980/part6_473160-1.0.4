@@ -1,0 +1,6 @@
+import ch.qos.logback.core.helpers.Transform;
+public class FunctionUse308 {
+public void funcUse() {
+Transform transform = new Transform();
+}
+}
